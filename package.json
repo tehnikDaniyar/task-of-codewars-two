@@ -1,0 +1,26 @@
+{
+	"name": "tsak-of-codewars-two",
+	"version": "1.0.0",
+	"description": "",
+	"main": "gulpfile.js",
+	"type": "module",
+	"scripts": {
+		"start": "gulp",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tehnikDaniyar/task-of-codewars-two.git"
+	},
+	"author": "Danik",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/tehnikDaniyar/task-of-codewars-two/issues"
+	},
+	"homepage": "https://github.com/tehnikDaniyar/task-of-codewars-two#readme",
+	"devDependencies": {
+		"gulp": "^4.0.2",
+		"webpack": "^5.75.0",
+		"webpack-stream": "^7.0.0"
+	}
+}
